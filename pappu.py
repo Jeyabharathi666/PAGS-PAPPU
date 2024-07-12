@@ -11,9 +11,9 @@ from concurrent.futures import ThreadPoolExecutor, wait
 Charting_Link = "https://chartink.com/screener/"
 Charting_url = 'https://chartink.com/screener/process'
 
-spreadsheet_name = "suriya"
+spreadsheet_name = "pappu"
 worksheet_letter = "p"
-total_no_of_worksheet = 27
+total_no_of_worksheet = 29
 
 scope = [
   'https://www.googleapis.com/auth/spreadsheets',
